@@ -7,5 +7,7 @@
   "metrics": {
     "throughput_ms": 21.2,
     "batch_index": 1
-  }
+  },
+  "patched": true,
+  "patch_version": 27
 }
