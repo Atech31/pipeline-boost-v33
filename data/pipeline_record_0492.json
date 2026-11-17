@@ -1,0 +1,11 @@
+{
+  "pipeline_version": "v33",
+  "record_id": 492,
+  "node": "node-0492",
+  "status": "VERIFIED",
+  "timestamp": "2026-11-17T11:51:02.330739+00:00",
+  "metrics": {
+    "throughput_ms": 25.7,
+    "batch_index": 5
+  }
+}
